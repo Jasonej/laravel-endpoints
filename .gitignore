@@ -1,0 +1,16 @@
+/vendor
+composer.lock
+
+/build
+/coverage
+.phpunit.result.cache
+/.phpunit.cache
+/phpstan.neon
+
+/.idea
+/.vscode
+/.zed
+/.nova
+.phpactor.json
+.DS_Store
+Thumbs.db
